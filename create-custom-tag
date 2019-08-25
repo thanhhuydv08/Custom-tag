@@ -1,4 +1,6 @@
 đã học html tags xml jsp jstl 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ nếu khai custom tag có body nhưng khi sử dụng trang jsp mình ko điền body thì " " thêm khoảng trống nhé.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ ví dụ taglib Chao : trong jsp  đúng <mytag:Chao>Huy</maytag>  mở rộng cũng có thể dùng <mytag:Chao> </maytag> luc nay body la khoang trong neu ko co khoang trong la bi loi ngay...
 => nay đi học custom tags
 =================================== sử dụng class simple tag có sẵn để tạo custom tags  có thuộc tính và không=================
 b1 : tạo clss Chao.java 
